@@ -151,7 +151,6 @@ RocketML is built for:
 * Analytics Professionals
 * Students
 * Researchers
-* Kaggle Practitioners
 
 ## Contributing
 
